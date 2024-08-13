@@ -51,10 +51,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp EXCL      &kp AT        &kp HASH      &kp DLLR      &kp PRCNT    &kp CARET        &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp KP_SUBTRACT
-&kp LCTRL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5       &kp MINUS        &kp EQUAL  &kp LBKT   &kp RBKT  &kp BSLH  &kp GRAVE
-&kp LSHFT  &kp NUMBER_6  &kp N7        &kp N8        &kp N9        &kp N0       &kp UNDER        &kp PLUS   &kp LBRC   &kp RBRC  &kp PIPE  &kp TILDE
-                                       &kp LGUI      &trans        &kp SPACE    &kp RIGHT_SHIFT  &trans     &kp RALT
+&kp TAB    &kp EXCL      &kp AT        &kp HASH      &kp DLLR      &kp PRCNT    &kp CARET         &kp AMPS          &kp ASTRK         &kp LPAR          &kp UNDERSCORE  &kp KP_SUBTRACT
+&kp LCTRL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5       &kp RA(MINUS)     &kp RA(NUMBER_2)  &kp RA(NUMBER_3)  &kp RA(NUMBER_4)  &kp RA(N5)      &kp GRAVE
+&kp LSHFT  &kp NUMBER_6  &kp N7        &kp N8        &kp N9        &kp N0       &kp RA(NUMBER_6)  &kp RA(N7)        &kp RA(N8)        &kp RA(N9)        &kp RA(N0)      &kp TILDE
+                                       &kp LGUI      &trans        &kp SPACE    &kp RIGHT_SHIFT   &trans            &kp RALT
             >;
         };
 
