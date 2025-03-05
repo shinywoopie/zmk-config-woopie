@@ -16,7 +16,6 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings = <&kp LS(T) &kp H &kp I &kp S &kp SPACE &kp I &kp S &kp SPACE &kp T &kp E &kp S &kp T &kp I &kp N &kp G &kp SPACE &kp O &kp F &kp SPACE &kp M &kp A &kp C &kp R &kp O &kp SPACE &kp F &kp U &kp N &kp C &kp T &kp I &kp O &kp N &kp DOT &kp DOT &kp DOT>;
-            label = "TESTMACRO";
         };
     };
 
